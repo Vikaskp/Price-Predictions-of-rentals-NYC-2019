@@ -1,0 +1,2 @@
+# Price-Predictions-of-rentals-NYC-2019
+Airbnb Inc. is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences and it records hotel price shifts from over 650 thousand hosts operating in more than 81 thousand cities and alternative accommodations around the world in its Hotel Price Index. The challenge is to track rate fluctuations and accommodation pricing trends based on location popularity , rating, no.of rooms and other attributes.
